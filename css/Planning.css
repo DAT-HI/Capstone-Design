@@ -1,0 +1,185 @@
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+html {
+  width: 360px;
+  margin: 0 auto;
+  background-color: #CCCCCC;
+}
+body {
+  background-color: white;
+  color: #333333;
+  margin: 0;
+  width: 360px;
+  height: 1320px;
+}
+.header {
+  font-family: 'NanumSquare', 'sans-serif';
+  text-align: center;
+  display: 56px;
+  padding: 12px;
+  border: 0px solid #707070; 
+  box-shadow: 1px 0px 6px 1px; color: gray;  
+}
+span {
+  font-family: 'NanumSquare', 'sans-serif';
+  font-weight: bold;
+  font-size: 22px;
+  color: #333333;
+  height: 50px;
+}
+hr {
+  background-color: #a7a7a7 ; 
+  width: 328px;
+  height: 0.1px;
+  border: 0px; 
+}
+p {
+  font-family: 'NanumSquare', 'sans-serif';
+  font-size: 18px;
+  padding: 12px 12px 12px 0px ;
+  margin: 0;
+}
+h1 {
+  font-family: 'NanumSquare', 'sans-serif';
+  font-weight: bold;
+  font-size: 18px;
+  padding: 12px 12px 12px 0px ;
+  margin: 0;
+}
+h4 {
+  font-family: 'NanumSquare', 'sans-serif';
+  font-size: 16px;
+  font-weight: normal;
+  padding: 12px 12px 12px 0px ;
+  margin: 0;
+}
+p1 {
+  font-family: 'NanumSquare', 'sans-serif';
+  font-size: 16px; 
+  border: 0px solid #707070;
+  border-radius: 10%;
+  box-shadow: 1px 1.5px 3px 1.5px darkgray;
+  padding: 6px 10px 6px 10px;  
+  margin-right: 12px;
+}
+pred {
+  font-family: 'NanumSquare', 'sans-serif';
+  font-size: 16px; 
+  border: 1px solid #F05340;
+  border-radius: 10%;
+  box-shadow: 1px 1.5px 3px 1.5px darkgray;
+  padding: 6px 10px 6px 10px;  
+  margin-right: 12px;
+}
+pt{
+  font-family: 'NanumSquare', 'sans-serif';
+  font-size: 16px; 
+  border: 0px solid #707070 ;
+  border-radius: 10%;
+  box-shadow: 1px 1.5px 3px 1.5px darkgray;
+  padding: 46px 14px 4px 14px;  
+  margin-right: 12px;
+}
+ptred {
+  font-family: 'NanumSquare', 'sans-serif';
+  font-size: 16px; 
+  border: 1px solid #F05340;
+  border-radius: 10%;
+  box-shadow: 1px 1.5px 3px 1.5px darkgray;
+  padding: 46px 14px 4px 14px;   
+  margin-right: 12px;
+}
+foot {
+  font-family: 'NanumSquare', 'sans-serif';
+  font-size: 16px; 
+  font-weight: bold;
+  text-align: center;
+  border: 0.5px solid #707070;
+  border-radius: 5%;
+  box-shadow: 1px 1.5px 3px 1.5px darkgray;
+  padding:5px 88px 5px 88px;
+}
+/* img */
+.icon_header{
+  padding:10px 0px 0px 6px;
+  width: 30px;
+  height: 30px;
+}
+img{
+  position: absolute; 
+}
+.cardLeft {
+  padding: 0px 0px 0px 16px;
+}
+.cardLeft p {
+  margin-bottom: 5px;
+}
+/* img icon */
+.img_p{
+  width: 64px;
+  height: 28px;
+}
+.img_tr{
+  width: 34px;
+  height: 34px;
+  padding: 56px 30px 30px 35px;
+}
+.img_bu{
+  width: 34px;
+  height: 36px;
+  padding: 56px 30px 30px 121px;
+}
+.img_ai{
+  width: 34px;
+  height: 34px;
+  padding: 56px 30px 30px 206px;
+}
+.img_ca{
+  width: 34px;
+  height: 34px;
+  padding: 56px 30px 30px 291px;
+}
+.img_cy{
+  width: 34px;
+  height: 35px;
+  padding: 134px 30px 30px 36px;
+}
+.img_ki{
+  width: 34px;
+  height: 28px;
+  padding: 134px 30px 30px 118px;
+}
+.img_bo{
+  width: 36px;
+  height: 36px;
+  padding: 134px 30px 30px 204px;
+}
+.img_wo{
+  width: 34px;
+  height: 32px;
+  padding: 134px 30px 30px 288px;
+}
+.img_ho{
+  width: 32px;
+  height: 32px;
+  padding: 102px 30px 30px 38px;
+}
+.img_mo{
+  width: 32px;
+  height: 32px;
+  padding: 102px 30px 30px 124px;
+}
+.img_cam{
+  width: 32px;
+  height: 32px;
+  padding: 102px 30px 30px 208px;
+}
+.img_bnb{
+  width: 32px;
+  height: 32px;
+  padding: 102px 30px 30px 294px;
+}
+.img_te{
+  width: 20px;
+  height: 20px;
+}
+

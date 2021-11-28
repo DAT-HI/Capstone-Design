@@ -1,0 +1,131 @@
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'NanumSquare', 'sans-serif';
+    font-size: 14px;
+    color: #333333;
+    background-color: #ddd;
+}
+
+#layout1 {
+    width: 360px;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+}
+
+#layout2 {
+    width: 328px;
+    padding: 8px;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+}
+
+.icon_img {
+    width: 24px;
+    height: 24px;
+    float: right;
+    margin: 4px;
+}
+
+.icon2_img {
+    width: 16px;
+    height: 13px;
+}
+
+.icon3_img {
+    width: 32px;
+    height: 32px;
+    float: right;
+}
+
+.icon4_img {
+    width: 360px;
+    height: 88px;
+    text-align: center;
+}
+
+.icon5_img {
+    width: 30px;
+    height: 30px;
+    padding: 10px 0px 0px 10px;
+    display: inline-block;
+}
+
+.point {
+    color: #f05340;
+    display: inline-block;
+}
+
+.one {
+    height: 56px;
+    background-color: #ffffff;
+    color: #212121;
+    border: 0px solid #707070;
+    box-shadow: 1px 0px 6px 1px;
+    color: gray;
+    font-weight: bold;
+    font-size: 22px;
+    color: #333333;
+}
+
+.two {
+    width: 328px;
+    height: 48px;
+    border-radius: 0.7em;
+    color: #212121;
+    box-shadow: 1.5px 1.5px 5px 1px;
+    color: gray;
+    text-align: center;
+}
+
+.three {
+    height: 24px;
+    background-color: #ffffff;
+    font-size: 18px;
+    margin: auto;
+    text-align: center;
+}
+
+.four {
+    height: 24px;
+    background-color: #ffffff;
+    font-size: 18px;
+    color: #f05340;
+    margin: auto;
+    text-align: center;
+}
+
+.hap {
+    width: 210px;
+    height: 16px;
+    background-color: #f05340;
+    border: 0.5px solid black;
+    font-size: 12px;
+    color: #FFFFFF;
+    margin: auto;
+    float: left;
+    text-align: center;
+}
+.left {
+    width: 114.5px;
+    height: 16px;
+    background-color: #ffffff;
+    font-size: 12px;
+    border:0.5px solid;
+    color: #333333;
+    margin: auto;
+    float: right;
+    text-align: center;
+}
+
+.five {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.a {
+    text-decoration: none;
+}

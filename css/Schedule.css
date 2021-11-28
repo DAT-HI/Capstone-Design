@@ -1,0 +1,133 @@
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+body {
+    font-family: 'NanumSquare', 'sans-serif';
+    background-color: #ddd;
+}
+#layout {
+    margin: auto;
+    width: 360px;
+    height: auto;
+    background-color: #fff;
+}
+
+#header {
+    padding: 16px;
+    background: #f05340;
+    text-align: center;
+}
+.img_back {
+    padding: 16px 0px 0px 16px;
+    width: 13.5px;
+    height: 23.62px;
+    float: left;
+}
+.location {
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+}
+.date {
+    padding: 8px 0px 0px 0px;
+    font-size: 18px;
+    color: #fff;
+}
+
+#sub_menu {
+    padding: 16px;
+    background: #fff;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+}
+.sub_menu_name {
+    margin: 0px 21px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #212121;
+    display: inline;
+}
+
+.day {
+    margin: 16px 8px 0px 16px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f05340;
+    float: left;
+}
+.day_line {
+    margin: 0px 8px 16px 0px;
+    width: 80px;
+    height: 1px;
+    background-color: #f05340;
+}
+.img_weather {
+    margin: 0px 8px 0px 0px;
+    width: 18px;
+    float: left;
+}
+.temp {
+    margin: 18px 0px 0px 0px;
+    font-size: 16px;
+    color: #212121;
+    float: left;
+}
+.img_modify {
+    margin: 16px 16px 0px 0px;
+    float: right;
+}
+.img_map {
+    padding: 0px 16px;
+    width: 328px;
+}
+#line {
+    margin: 16px 0px;
+    width: 360px;
+    height: 1px;
+    background-color: #B4B4B4;
+}
+
+.progress {
+    height: 738px;
+    float: left;
+    display: inline;
+    position: absolute;
+}
+#list {
+    margin: 0px 16px 16px 16px;
+    padding: 0px 0px 16px 0px;
+    width: 328px;
+    border: 1px solid #b4b4b4;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.16);
+}
+#list_left {
+    width: 80px;
+    float: left;
+}
+#list_right {
+    width: auto;
+    display: inline-block;
+}
+.list_title {
+    padding: 16px 16px 4px 16px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #212121;
+    display: inline-block;
+}
+.list_text {
+    padding: 0px 16px;
+    font-size: 14px;
+    color: #212121;
+    display: inline;
+}
+.list_text2 {
+    padding: 28px 16px 12px 16px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #212121;
+    display: inline-block;
+}
+.list_img {
+    margin: auto;
+    padding: 4px 0px 0px 0px;
+    display: block;
+}
